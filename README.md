@@ -2,14 +2,14 @@
 # List of Compliments for MagicMirror
 
 {
+
         "anytime" : [
                 "Je ziet er geweldig uit vandaag!",
                 "Wat een geweldige dag vandaag!",
                 "Jij maakt vandaag het verschil!",
                 "Een prachtige lach, voor een prachtige dag",
                 "Kijk je nog steeds naar de spiegel?",
-                "Hallo, ik ben El, Spieg El"
-
+                "Hallo, ik ben El, Spieg El" 
         ],
         "morning" : [
                 "Wat zit je haar weer goed vandaag!",
