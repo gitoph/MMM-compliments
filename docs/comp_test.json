@@ -1,0 +1,30 @@
+{
+    "anytime" : [
+            "test Je ziet er geweldig uit vandaag!",
+            "test Wat een geweldige dag vandaag!",
+            "testt Jij maakt vandaag het verschil!",
+            "test Een prachtige lach, voor een prachtige dag",
+            "tteeest Kijk je nog steeds naar de spiegel?",
+            "test Hallo, ik ben El, Spieg El" 
+    ],
+    "morning" : [
+            "test Wat zit je haar weer goed vandaag!",
+            "test Begin de dag met een lach!",
+            "test Het zal weer een prachtige dag worden!",
+            "test Is het niet een leuke dag?",
+            "test Bereid je voor op een leuke dag!"
+    ],
+    "afternoon" : [
+            "test Nog even je werk afmaken...",
+            "test Middag, niet de avond, niet de ochtend",
+            "testIs dit niet een leuke dag?",
+            "vtestBijna etenstijd!"
+    ],
+    "evening" : [
+            "testEn nu op naar de vergadering.",
+            "testEet smakelijk!",
+            "testEven rust, heerlijk....",
+            "testJij hebt het verschil gemaakt!",
+            "testWas het eten lekker?"
+    ]
+}
